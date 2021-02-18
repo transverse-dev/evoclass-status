@@ -3,7 +3,7 @@ owner: transverse-dev # Your GitHub username
 repo: evoclass-status # Your GitHub repository name
 
 
-sites:evoclass-status
+sites:
   - name: 에보클래스 수업관리
     url: https://evoclass.ai
   - name: 에보클래스 화상회의
