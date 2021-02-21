@@ -1,7 +1,7 @@
-url: https://api.evoclass.ai
-status: down
-code: 404
-responseTime: 767
-lastUpdated: 2021-02-21T05:42:29.354Z
+url: https://evoclass.ai
+status: up
+code: 200
+responseTime: 1162
+lastUpdated: 2021-02-21T05:49:30.879Z
 startTime: Thu Feb 18 2021 15:40:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
