@@ -9,7 +9,7 @@ sites:
   - name: 에보클래스 화상회의
     url: https://room.evoclass.io
   - name: 에보클래스 서버
-    url: https://api.evoclass.ai
+    url: https://api.evoclass.ai/swagger
 
 status-website:
   cname: status.evoclass.ai
