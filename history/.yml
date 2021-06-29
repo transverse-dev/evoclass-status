@@ -1,7 +1,7 @@
-url: https://room.evoclass.io
+url: https://api.evoclass.ai/swagger
 status: up
 code: 200
-responseTime: 576
-lastUpdated: 2021-06-29T23:10:41.537Z
+responseTime: 1077
+lastUpdated: 2021-06-29T23:10:42.900Z
 startTime: Thu Feb 18 2021 15:40:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
